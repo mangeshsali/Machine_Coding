@@ -1,0 +1,19 @@
+.App {
+  font-family: sans-serif;
+  text-align: center;
+}
+
+.container {
+  border: solid black;
+  padding: 20px;
+}
+
+.container-light {
+  background-color: beige;
+  color: black;
+}
+
+.container-dark {
+  color: beige;
+  background-color: black;
+}
