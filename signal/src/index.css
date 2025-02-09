@@ -1,0 +1,36 @@
+.App {
+  font-family: sans-serif;
+  text-align: center;
+}
+
+.red-circle {
+  background-color: red;
+  border: Solid black 2px;
+  border-radius: 100%;
+  width: 60px;
+  height: 60px;
+}
+
+.none-circle {
+  background-color: white;
+  border: Solid black 2px;
+  border-radius: 100%;
+  width: 60px;
+  height: 60px;
+}
+
+.green-circle {
+  background-color: green;
+  border: Solid black 2px;
+  border-radius: 100%;
+  width: 60px;
+  height: 60px;
+}
+
+.yellow-circle {
+  background-color: yellow;
+  border: Solid black 2px;
+  border-radius: 100%;
+  width: 60px;
+  height: 60px;
+}
