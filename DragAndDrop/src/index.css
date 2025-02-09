@@ -1,0 +1,24 @@
+.App {
+  font-family: sans-serif;
+  text-align: center;
+}
+.parent-board {
+  display: flex;
+  justify-content: space-between;
+}
+
+.label-heading {
+  padding: 8px;
+  background-color: yellow;
+}
+
+.todo {
+  display: flex;
+  justify-content: flex-end;
+}
+
+.border {
+  border: solid black 2px;
+  padding: 0px 20px;
+  margin: 20px 0px;
+}
