@@ -1,0 +1,26 @@
+.App {
+  font-family: sans-serif;
+  text-align: center;
+}
+
+.main {
+  width: 350px;
+  height: 70px;
+  display: flex;
+  justify-content: space-between;
+}
+
+.Star {
+  width: 60px;
+  height: 60px;
+  border: Solid black 2px;
+  border-radius: 100%;
+}
+
+.Star-light {
+  background-color: yellow;
+  width: 60px;
+  height: 60px;
+  border: Solid black 2px;
+  border-radius: 100%;
+}
